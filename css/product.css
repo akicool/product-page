@@ -123,7 +123,7 @@ body {
   transition: .4s ease-out;
   position: absolute;
 }
-.burger--active { /* дописать скрипт под бургер*/
+.burger--active { 
   visibility: visible;
   top: 0;
   right: 0;
@@ -132,7 +132,6 @@ body {
   position: absolute;
   z-index: 2;
 }
-
 .burger__header {
   display: flex;
   justify-content: end;
